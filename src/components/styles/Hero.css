@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
+}
+
+.header-text {
+  font-size: 4rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.header-accent {
+  color: #faa80f;
+  transition: 1s;
+}
