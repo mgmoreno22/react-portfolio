@@ -23,3 +23,9 @@
   color: #faa80f;
   transition: 1s;
 }
+
+img.bgplanet {
+  position: absolute;
+  top: 60;
+  max-height: 600px;
+}
